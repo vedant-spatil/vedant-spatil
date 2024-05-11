@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Contributor at Social Summer of Code S3 pursuing my B.Tech from GGSIP University.<br> I'm Proficient in Java and Front-end Web Development. Let's learn together.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Social Summer of Code S3 as a Contributor<br>🌱 I’m currently learning React.js and Node.js<br>💬 Ask me about JAVA, Front End Web Development, AI
+🔭 I’m currently working in Social Summer of Code S3 as a Contributor<br>🌱 I’m currently learning React.js and Node.js<br>💬 Ask me about JAVA, Front End Web Development, AI
 
 
 ## 🌐 Socials:
