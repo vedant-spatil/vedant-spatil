@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sumit Grover</h1>
-<h3 align="center">I'm a developer skilled in Java and web technologies, passionate about creating cool stuff, and I love being part of communities where we share and learn together.</h3>
+<h1 align="center">Hi 👋, I'm Vedant Sudhir Patil</h1>
+<h3 align="center">I'm a Contributor at Social Summer of Code S3 pursuing my B.Tech from GGSIP University. I'm Proficient in Java and Front-end Web Development. Let's learn together.</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Social Summer of Code S3 as a Contributor<br>🌱 I’m currently learning React.js and Node.js<br>💬 Ask me about JAVA, Front End Web Development, AI
