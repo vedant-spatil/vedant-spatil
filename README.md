@@ -18,6 +18,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vedant-spatil&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
+[![vspatil's GitHub | Stats](https://stats.quine.sh/vspatil/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vspatil)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vedant-spatil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
