@@ -13,10 +13,10 @@
 
 # 📊 GitHub Stats:
 [![vspatil's GitHub | Stats](https://stats.quine.sh/vspatil/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vspatil)<br/>
-[![vspatil's GitHub | Languages Over Time](https://stats.quine.sh/vspatil/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vspatil)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=vedant-spatil&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+<!-- [![vspatil's GitHub | Languages Over Time](https://stats.quine.sh/vspatil/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vspatil)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=vedant-spatil&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vedant-spatil&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-spatil&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-spatil&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vedant-spatil&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
