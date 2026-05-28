@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vedant Sudhir Patil</h1>
-<h3 align="center">I’m an Oracle Certifed Data Science Professional and final-year B.Tech student at GGSIP University with a strong focus on Data Enginnering and Artificial Intelligence. I won the AWS Amplify Hackathon, attended Google & Kaggle's AI Agents Course and contributed to SSoC Season 3.</h3>
+<h3 align="center">I’m an Oracle Certifed Data Science Professional and final-year B.Tech student at GGSIP University with a strong focus on Data Engineering and Artificial Intelligence. I won the AWS Amplify Hackathon, attended Google & Kaggle's AI Agents Course and contributed to SSoC Season 3.</h3>
 
 # About Me:
 I’m currently conducting research on continual learning, titan architecture and catastrophic forgetting.
